@@ -1,6 +1,6 @@
 § 17 DAGORDNING
 
-Ordinarie föreningsstämma.
+Ordinarie föreningsstämma
 Vid ordinarie föreningsstämma ska förekomma:
 1. föreningsstämmans öppnande
 2. val av stämmoordförande
@@ -18,16 +18,15 @@ Vid ordinarie föreningsstämma ska förekomma:
 14. beslut om ansvarsfrihet för styrelsens ledamöter
 15. beslut om arvoden och principer för andra ekonomiska ersättningar för styrelsens ledamöter, revisorer, valberedning och de andra förtroendevalda som valts av föreningsstämman
 16. beslut om antal styrelseledamöter och suppleanter
-17. val av styrelsens ordförande
-18. val av övriga styrelseledamöter och suppleanter
-19. presentation av HSB-ledamot
-20. beslut om antal revisorer och suppleant
-21. val av revisor/er och suppleant
-22. beslut om antal ledamöter i valberedningen
-23. val av valberedning, en ledamot utses till valberedningens ordförande
-24. val av fullmäktige och ersättare samt övriga representanter i HSB
-25. av styrelsen till föreningsstämman hänskjutna frågor och av medlemmar anmälda ärenden (motioner) som angivits i kallelsen
-26. föreningsstämmans avslutande.
+17. val av styrelseledamöter och suppleanter
+18. presentation av HSB-ledamot
+19. beslut om antal revisorer och suppleant
+20. val av revisor/er och suppleant
+21. beslut om antal ledamöter i valberedningen
+22. val av valberedning, en ledamot utses till valberedningens ordförande
+23. val av fullmäktige och ersättare samt övriga representanter i HSB
+24. av styrelsen till föreningsstämman hänskjutna frågor och av medlemmar anmälda ärenden (motioner) som angivits i kallelsen
+25. föreningsstämmans avslutande.
 
 Extra föreningsstämma
 På extra föreningsstämma ska kallelsen, utöver punkt 1-9 ovan, ange de ärenden som ska behandlas.
@@ -36,16 +35,15 @@ På extra föreningsstämma ska kallelsen, utöver punkt 1-9 ovan, ange de ären
 
 Styrelsen består av lägst tre och högst elva styrelseledamöter med högst fyra suppleanter.
 Av dessa utses en styrelseledamot och högst en suppleant för denne av styrelsen för HSB.
-Föreningsstämman väljer styrelsens ordförande och övriga styrelseledamöter och suppleanter.
+Föreningsstämman väljer styrelseledamöter och suppleanter.
 Mandattiden är högst två år.
 Styrelseledamot och suppleant kan väljas om.
 Om helt ny styrelse väljs av föreningsstämman ska mandattiden för hälften, eller vid udda tal närmast högre antal, vara ett år.
 
 § 22 KONSTITUERING OCH FIRMATECKNING
 
-Styrelsen konstituerar sig själv med undantag av styrelsens ordförande som väljs av föreningsstämman.
-Om styrelsens ordförande lämnar sitt uppdrag under mandattiden ska styrelsen inom sig välja styrelseordförande för tiden till nästa föreningsstämma.
-Styrelsen utser inom sig sekreterare.
+Styrelsen konstituerar sig själv.
+Styrelsen utser inom sig ordförande och sekreterare.
 Styrelsen utser också ansvarig för introduktion och utbildning av medlemmar inom bostadsrättsföreningen.
 Bostadsrättsföreningens firma tecknas av styrelsen.
 Styrelsen kan utse högst fyra personer, varav minst två styrelseledamöter, att två tillsammans teckna bostadsrättsföreningens firma.
@@ -57,7 +55,6 @@ Mandattiden är ett år.
 Valberedningen ska bestå av lägst två ledamöter.
 En ledamot utses av föreningsstämman till ordförande i valberedningen.
 Valberedningen bereder och föreslår personer till de förtroendeuppdrag som föreningsstämman ska tillsätta.
-Valberedningen ska till föreningsstämman lämna förslag på arvode och föreslå principer för andra ekonomiska ersättningar för styrelsens ledamöter och revisorer.
 
 § 31 BOSTADSRÄTTSHAVARENS ANSVAR
 
@@ -76,21 +73,19 @@ Till lägenheten hör bland annat:
 2. Icke bärande innerväggar.
 3. Inredning i lägenheten och övriga utrymmen tillhörande lägenheten, exempelvis: sanitetsporslin, köksinredning, vitvaror såsom kyl/frys och tvättmaskin. Bostadsrättshavaren svarar också för vattenledningar, avstängningsventiler och anslutningskopplingar på vattenledning till denna inredning.
 4. Lägenhetens innerdörrar med tillhörande lister, foder, karm, tätningslister.
-5. Insida av ytterdörr samt beslag, handtag, gångjärn, tätningslister, brevinkast, lås och nycklar.
+5. Ytterdörr samt beslag, handtag, gångjärn, tätningslister, brevinkast, lås och nycklar.
 6. Glas i fönster och dörrar samt spröjs på fönster och isolerglaskassett.
 7. Till fönster och fönsterdörr hörande beslag, handtag, gångjärn, tätningslister samt målning.
 Bostadsrättsföreningen ansvarar dock för målning av utifrån synliga delar av fönster/fönsterdörr.
-8. Ledningar för avlopp, gas, vatten och anordningar för informationsöverföring till de delar de är synliga i lägenheten och betjänar endast den aktuella lägenheten.
-9. Armaturer för vatten (blandare, duschmunstycke med mera) inklusive packning, avstängningsventiler och anslutningskopplingar på vattenledning.
-10. Klämringen runt golvbrunnen, rensning av golvbrunn och vattenlås.
-11. Eldstäder och braskaminer.
-12. Köksfläkt, kolfilterfläkt spiskåpa, ventilationsdon och ventilationsfläkt om de inte är en del av husets ventilationssystem.
+8. Armaturer för vatten (blandare, duschmunstycke med mera) inklusive packning, avstängningsventiler och anslutningskopplingar på vattenledning, som bostadsrättshavare försett lägenheten med.
+9. Klämringen runt golvbrunnen, rensning av golvbrunn och vattenlås.
+10. Köksfläkt, kolfilterfläkt spiskåpa, ventilationsdon och ventilationsfläkt om de inte är en del av husets ventilationssystem.
 Vid all slags installation av anordning som kan påverka ventilationen krävs alltid styrelsens tillstånd.
 Bostadsrättshavaren ansvarar för rengöring och byte av filter.
-13. Säkringsskåp, samtliga elledningar i lägenheten samt brytare, eluttag och fasta armaturer.
-14. Elradiatorer, elburen golvvärme och elburen handdukstork.
-15. Målning av vattenburna radiatorer och värmeledningar.
-16. Brandvarnare.
+11. Säkringsskåp, samtliga elledningar i lägenheten samt brytare, eluttag och fasta armaturer.
+12. Elradiatorer, elburen golvvärme och elburen handdukstork.
+13. Målning av vattenburna radiatorer och värmeledningar.
+14. Brandvarnare.
 
 Om lägenheten är utrustad med balkong, altan eller uteplats svarar bostadsrättshavaren för renhållning och snöskottning.
 För balkong/altan svarar bostadsrättshavaren för målning/ytbehandling av insida av balkongfront/altanfront och av golv.
@@ -103,9 +98,8 @@ Bostadsrättshavaren är skyldig att utan dröjsmål till bostadsrättsförening
 Bostadsrättsföreningen svarar för att huset och bostadsrättsföreningens fasta egendom, med undantag för bostadsrättshavarens ansvar enligt § 31, är väl underhållet och hålls i gott skick.
 Bostadsrättsföreningen svarar vidare för underhåll och reparationer av följande:
 1. Ledningar för avlopp, värme, gas, elektricitet och vatten, om bostadsrättsföreningen har försett lägenheten med ledningarna och dessa tjänar fler än en lägenhet (så kallade stamledningar).
-2. Ledningar för avlopp, gas, vatten och anordningar för informationsöverföring som bostadsrättsföreningen försett lägenheten med och som finns i golv, tak, lägenhetsavskiljande- eller bärande vägg.
+2. Ledningar och anordningar för avlopp, vatten och informationsöverföring som bostadsrättsföreningen försett lägenheten med.
 3. Vattenburna radiatorer, vattenburen golvvärme, vattenburen handdukstork och värmeledningar i lägenheten som bostadsrättsföreningen försett lägenheten med.
-Bostadsrättshavaren svarar dock för målning av vattenburna radiatorer och värmeledningar.
-4. Rökgångar (ej rökgångar i kakelugnar) och ventilationskanaler, inkluderat hela ventilationssystemet inklusive ventilationsdon samt även för spiskåpa/köksfläkt som utgör del av husets ventilation.
-5. Ytterdörr.
-6. Brevlåda och postbox.
+Bostadsrättshavaren svarar dock för målning av vattenburna radiatorer och värmeledningar,
+4. Rökgångar (ej rökgångar kakelugnar) och ventilationskanaler, inkluderat hela ventilationssystemet inklusive ventilationsdon samt även för spiskåpa/köksfläkt som utgör del av husets ventilation.
+5. Brevlåda och postbox.
